@@ -33,14 +33,14 @@ h3{
     color: white;
     opacity: 0.8;
     display: flex;
-    margin-left: 35%;
+    margin-left: 40%;
     height: 130px;
     align-items: flex-end;
  	}
 
 
   #presentation{
-    background-color:rgba(193, 193, 193, 0.1) ;
+    background-color:rgba(193, 193, 193, 0.4) ;
     width: auto;
     height: 200px;
     font-family:monospace;
@@ -58,7 +58,7 @@ h3{
 
   article{
 
-    background-color:rgba(193, 193, 193, 0.1);
+    background-color:rgba(193, 193, 193, 0.3);
     width:30%;
  	  height:800px;
  	  font-family:monospace;
@@ -75,7 +75,7 @@ h3{
 
 
 section #competences{
-  background-color:rgba(193, 193, 193, 0.1) ;
+  background-color:rgba(193, 193, 193, 0.3) ;
   width: 50%;
   height: auto;
   font-family:monospace;
@@ -96,7 +96,7 @@ section #competences{
 }
 
 #Loisirs{
-  background-color: rgba(193, 193, 193, 0.1);
+  background-color: rgba(193, 193, 193, 0.3);
   width: 40%;
   height: auto;
   font-family:monospace;
